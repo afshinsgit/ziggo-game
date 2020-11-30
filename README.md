@@ -2,10 +2,6 @@
 
 This is a ZigZag clone game that I made with Unity.
 
-Game engine: Unity 
-
-Programming language: C#
-
 Platform: PC & Android
 
 Watch [Gameplay demo](https://www.youtube.com/watch?v=MXSdKJRh_TI&feature=youtu.be)
